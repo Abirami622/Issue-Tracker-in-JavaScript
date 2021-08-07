@@ -83,4 +83,4 @@ function fetchIssues() {
                               '<a href="#" onclick="deleteIssue(\''+id+'\')" class="btn btn-danger">Delete</a>'+
                               '</div>';
   }
-}
+} 
